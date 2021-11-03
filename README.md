@@ -1,4 +1,4 @@
-## Well, Hello there. I'm Daniel!
+## Well, Hello there... I'm Daniel!
 
 
 - 🔭 Today, I’m working on Computer Vision/ Data Analyst
