@@ -1,4 +1,4 @@
-<img src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" width="500px"  height="200px">
+<img src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" width="400px"  height="200px">
 <h1>Well, Hello there... I'm Daniel!</h1>
 
 - 🔭 Today, I’m working on Computer Vision/ Data Analyst
