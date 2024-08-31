@@ -1,8 +1,7 @@
 <img src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" width="400px"  height="200px">
 <h1>Well, Hello there... I'm Daniel!</h1>
 
-- 🔭 Today, I’m working on Computer Vision/ Data Analyst
-- 🌱 I’m currently learning Deep Learning and DIP
+- 🔭 Today, I’m working with LLMs and Computer Vision.
 - 👷‍♂️ But I'm also a mechanical engineer
 - ⚡ Fun fact: I'm a space geek 🚀 and I love cooking italian food 🍕!
 - 🇧🇷 🇺🇸 🇮🇹 🇷🇺
