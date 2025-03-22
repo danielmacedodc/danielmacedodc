@@ -4,7 +4,7 @@
 - 🔭 Today, I’m working with LLMs and Computer Vision.
 - 👷‍♂️ But I'm also a mechanical engineer
 - ⚡ Fun fact: I'm a space geek 🚀 and I love cooking italian food 🍕!
-- 🇧🇷 🇺🇸 🇮🇹 🇷🇺
+- 🇧🇷 🇺🇸 🇮🇹 🇫🇷
 
 ##
 
